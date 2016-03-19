@@ -31,7 +31,7 @@ void matrixBeolvas(istream& in, vector<vector<double> > &verseny) {
 				for(int j=0; j<skor; ++j){
 					in >> verseny.at(i).at(j);
 // valahogy itt kene ellenorizni, hogy jok-e az idoeredmenyek: 0.1 <= korido <= 10
-/*					if( verseny.at(i).at(j) < 0 || verseny.at(i).at(j) > 10 || verseny.at(i).at(j) < 0.1) {
+/*					if(verseny.at(i).at(j) > 10 || verseny.at(i).at(j) < 0.1) {
 						throw HIBAS_KORIDO;
 					}*/
 				}
