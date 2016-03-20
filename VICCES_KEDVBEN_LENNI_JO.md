@@ -1,4 +1,4 @@
-# prog
+# AgyBaj
 
 <h1>1.lecke</h1>        
 <h5>~ Hogyan ne legyünk hülyék? </h5>
